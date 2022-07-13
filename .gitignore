@@ -1,0 +1,5 @@
+*.DS_Store
+*.m~
+.DS_Store
+.ipynb_checkpoints
+~$stract.docx
